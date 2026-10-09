@@ -1,5 +1,4 @@
 package com.uped.transporte;
-
 import com.uped.transporte.modelo.Automovil;
 import com.uped.transporte.modelo.Motocicleta;
 import com.uped.transporte.modelo.CamionDeCarga;
